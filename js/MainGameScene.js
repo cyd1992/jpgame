@@ -1,5 +1,6 @@
 /**
  * Created by cong on 2015/9/8.
+ *
  */
 
 var MainGameScene = cc.Scene.extend({

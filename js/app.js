@@ -1,5 +1,9 @@
 // app.js
 
+/*
+Èë¿Ú
+ */
+
 window.onload = function(){
     cc.game.onStart = function(){
         //load resources
